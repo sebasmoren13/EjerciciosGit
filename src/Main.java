@@ -4,7 +4,12 @@ public class Main {
         System.out.println("Hola mundo");
         System.out.println("SEBASTIAN ANDRES PRIETO MORENO");
         System.out.println("ESTUDIANTE DE LA CUNDINAMARCA");
-
+        System.out.println("Hola mundo");
+        System.out.println("SEBASTIAN ANDRES PRIETO MORENO");
+        System.out.println("ESTUDIANTE DE LA CUNDINAMARCA");
+        System.out.println("Hola mundo");
+        System.out.println("SEBASTIAN ANDRES PRIETO MORENO");
+        System.out.println("ESTUDIANTE DE LA CUNDINAMARCA");
 
     }
 }
