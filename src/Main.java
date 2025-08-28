@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class Main {
     public static void main(String[] args) {
 
@@ -24,6 +22,20 @@ public class Main {
         System.out.println("git clone");
         System.out.println("git fetch");
         System.out.println("git switch");
+
+        System.out.println("COMANDOS DE GIT");
+        System.out.println("git status- estado rama");
+        System.out.println("git branch - ver las ramas");
+        System.out.println("git add . - agrupar archivos");
+        System.out.println("git commit -m  - guardar cambios local");
+        System.out.println("git push origin (nombre rama)- subir cambios");
+        System.out.println("git config -- list - listar configuraciones");
+        System.out.println("git log - ver todos los commit ");
+        System.out.println("git clone - clonar proyecto");
+        System.out.println("git fetch - ver ramas remotas");
+        System.out.println("git switch - para crear y posicionarme sobre la rama");
+        System.out.println("git check out (Nombre rama a cambiar) - cambiar de rama");
+        System.out.println("git pull origin (Rama actual que se cambio antes)- mandar cambios");
 
     }
 }
