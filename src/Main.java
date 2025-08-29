@@ -42,5 +42,11 @@ public class Main {
         System.out.println("git check out (Nombre rama a cambiar) - cambiar de rama");
         System.out.println("git pull origin (Rama actual que se cambio antes)- mandar cambios");
 
+
+
+        System.out.println("Nueva modificación");
+        System.out.println("Prueba para el pdf");
+
+
     }
 }
